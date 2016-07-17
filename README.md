@@ -1,7 +1,7 @@
 
 # Cart-Pole Problem with Q-Learning
 
-I am learning about how to apply TensorFlow to robotics. I am operating in the "copying the masters"-mode.
+I am experimenting how to apply TensorFlow to robotics. I am currently operating in the "copying the masters"-mode.
 
 This experiment uses TensorFlow on the Cart-Pole problem.
 
@@ -13,7 +13,7 @@ This experiment is based on the results and code from "pong playing AI": https:/
 I found a cartpole simulation in PyGame here (lucky me):
 http://www.cs.colostate.edu/~anderson/cs645/index.html/lib/exe/fetch.php?media=notes:cartpole.py
 
-I just made it work with the lastest Box2D version (please use diff in case you need more details).
+I just made this code work with the lastest Box2D version (please use diff in case you need more details).
 
 
 ## Installing Box2D
